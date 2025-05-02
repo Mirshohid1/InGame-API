@@ -30,7 +30,16 @@ BASE_APPS = [
 ]
 
 LOCAL_APPS = [
-
+    'api', 'users', 'core',
+    'analytics',
+    'banners',
+    'conversion',
+    'delivery',
+    'desktops',
+    'notifications',
+    'orders',
+    'payments',
+    'products'
 ]
 
 THIRD_PARTY_APPS = [
